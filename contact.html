@@ -14,6 +14,28 @@
 <meta property="og:description" content="Réseau Alliance Genève est votre partenaire pour le recrutement. Contactez-nous pour un service réactif et à l'écoute de vos besoins.">
 <meta property="og:image" content="assets/img/geneve-hero.webp">
 <meta property="og:type" content="website">
+<link rel="preload" as="image" href="assets/img/geneve-hero.webp">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "EmploymentAgency",
+  "name": "Réseau Alliance Genève",
+  "url": "https://reseaualliance.ch/",
+  "logo": "https://reseaualliance.ch/assets/img/logo.png",
+  "telephone": "+41583077111",
+  "email": "geneve@reseaualliance.ch",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Route des Jeunes 35",
+    "postalCode": "1227",
+    "addressLocality": "Carouge",
+    "addressRegion": "Genève",
+    "addressCountry": "CH"
+  },
+  "sameAs": ["https://www.linkedin.com/company/r%C3%A9seau-alliance-gen%C3%A8ve/?viewAsMember=true", "https://www.instagram.com/reseaualliancegeneve/", "https://m.facebook.com/people/Rseau-alliance-Genve/61552257404834/"],
+  "parentOrganization": { "@type": "Organization", "name": "Réseau Alliance" }
+}
+</script>
 </head>
 <body>
 <header class="site-header">
@@ -90,14 +112,22 @@
   <div class="container">
     <div class="grid-2" style="align-items: stretch;">
       <div class="feature__media"><img src="assets/img/vue-de-geneve.webp" alt="Vue de Genève" width="1200" height="676" loading="lazy" style="height:100%; aspect-ratio:auto;"></div>
-      <div class="map">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2762.391876133293!2d6.126711776108885!3d46.18275997109475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478c7b23be308bf7%3A0xff63f7e851b816cf!2sRte%20des%20Jeunes%2035%2C%201227%20Carouge%2C%20Suisse!5e0!3m2!1sfr!2sfr!4v1714656019949!5m2!1sfr!2sfr" title="Plan d'accès — Rte des Jeunes 35, 1227 Carouge" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
+      <div class="map map--consent" data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2762.391876133293!2d6.126711776108885!3d46.18275997109475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478c7b23be308bf7%3A0xff63f7e851b816cf!2sRte%20des%20Jeunes%2035%2C%201227%20Carouge%2C%20Suisse!5e0!3m2!1sfr!2sfr!4v1714656019949!5m2!1sfr!2sfr">
+        <button type="button" class="map__load">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0z"/><circle cx="12" cy="10" r="3"/></svg>
+          <span><strong>Afficher le plan d'accès</strong><br>Route des jeunes 35, 1227 Carouge / Genève<br><small>En cliquant, vous chargez une carte Google Maps (cookies tiers).</small></span>
+        </button>
       </div>
     </div>
   </div>
 </section>
 
 </main>
+<nav class="mobile-bar" aria-label="Actions rapides">
+  <a href="tel:0583077111"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6.2 6.2l1.3-1.3a2 2 0 0 1 2.1-.5c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2z"/></svg><span>Appeler</span></a>
+  <a href="https://reseaualliance9.aubeperp.ch:8443/reseaualliance/JSP/_inscrCdt/inscription.jsp?suc=GE&formSz=basic&lang=FR" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg><span>S'enregistrer</span></a>
+  <a href="mailto:geneve@reseaualliance.ch"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg><span>Nous contacter</span></a>
+</nav>
 <footer class="site-footer">
   <div class="container">
     <div class="footer__grid">

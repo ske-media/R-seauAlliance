@@ -35,3 +35,15 @@
     box.classList.remove('map--consent'); box.innerHTML = ''; box.appendChild(f);
   });
 })();
+
+// Moteur d'animations chargé après "load" : l'image du hero garde toute la bande passante
+(function () {
+  if (matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  var files = ['assets/vendor/gsap.min.js', 'assets/vendor/ScrollTrigger.min.js', 'assets/vendor/lenis.min.js', 'assets/motion.js'];
+  function next(i) {
+    if (i >= files.length) return;
+    var s = document.createElement('script'); s.src = files[i]; s.onload = function () { next(i + 1); }; s.onerror = function () { next(i + 1); };
+    document.head.appendChild(s);
+  }
+  if (document.readyState === 'complete') next(0); else window.addEventListener('load', function () { next(0); });
+})();

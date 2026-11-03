@@ -24,7 +24,7 @@ Extrait le 2026-11-03 depuis le site en ligne (WordPress/Divi). Tout le contenu 
 - Instagram : https://www.instagram.com/reseaualliancegeneve/
 - Facebook (mentionné dans le code) : https://m.facebook.com/people/Rseau-alliance-Genve/61552257404834/
 - Liens légaux : Conditions Générales · Déclaration de protection des données · Mentions légales · Crédits photos
-- © 2024 - Réseau Alliance Genève - Tous droits réservées - Site créé par NCN WEB DEV (https://ncn.nathalie-nottebaert.fr/)
+- © 2024 - Réseau Alliance Genève - Tous droits réservées - Site créé par NCN WEB DEV (https://ncn.nathalie-nottebaert.fr/) — remplacé dans la refonte par « Site créé par Steven C. K. ELDRING » → https://stevenckeldring.com
 - Lien d'inscription candidat (QR code) : https://reseaualliance9.aubeperp.ch:8443/reseaualliance/JSP/_inscrCdt/inscription.jsp?suc=GE&formSz=basic&lang=FR
 
 ---

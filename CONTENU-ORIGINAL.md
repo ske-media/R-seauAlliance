@@ -229,3 +229,26 @@ H1 Crédits photos du site
 
 ## PAGE : Déclaration de protection des données (/protection-des-donnees/)
 (texte intégral reproduit dans protection-des-donnees.html — 9 sections : Préambule, Types de données, Finalité, Base de traitement, Communications à des tiers (Sous-traitants / Divulgations), Conservation, Gestion & notification de violation, Droits des personnes, Modification, Questions et réclamation)
+
+---
+
+## Réécritures volontaires (refonte 2026, ton « premium et assuré »)
+
+Seuls les titres, accroches, CTA et méta-descriptions ont été réécrits. Les textes d'information (paragraphes de services, valeurs, équipe, secteurs, coordonnées, pages légales) sont d'origine.
+
+| Page | Original | Refonte |
+|---|---|---|
+| Accueil – hero | QUI SOMMES-NOUS ? / Agence Genève / Nous créons des opportunités pour votre carrière et votre business | Trouver la bonne personne n'a rien d'un hasard. |
+| Accueil – candidats | Dynamisez votre carrière à Genève et en Suisse grâce à notre expertise… | Votre carrière mérite mieux qu'une annonce de plus. |
+| Accueil – entreprises | Donnez un coup de pouce à votre business avec nos solutions de recrutement sur mesure | Le bon profil, sans les semaines perdues. |
+| Accueil – secteurs | Nous recrutons dans différents secteurs d'activités | Six secteurs. Une même exigence. |
+| Accueil – valeurs | Nos valeurs | Ce qui ne se négocie pas. |
+| Accueil – équipe | Notre Equipe! | Trois personnes. Un seul numéro. |
+| Accueil – CTA | Nous contacter | Parlons de votre prochain recrutement. |
+| Groupe – hero | UNISSONS NOS TALENTS / Un réseau RH à votre écoute | Un réseau international. Une exigence locale. |
+| Groupe – sections | Qui sommes-nous ? / Vous cherchez un emploi ? / Vous êtes à la recherche d'un talent ? / Nos valeurs / Prêt à Trouver… | Une entreprise familiale, à l'échelle de 7 pays. / Candidats : six secteurs vous attendent. / Entreprises : le profil juste… / Quatre engagements, sept pays. / Votre prochain poste — ou votre prochaine recrue — commence ici. |
+| Emploi – hero | DEMANDEURS D'EMPLOI / Trouvez le job de vos rêves | Le poste qui vous ressemble. |
+| Emploi – sections | Nous vous accompagnons à chaque étape / Les catégories | Quatre étapes. Aucune zone d'ombre. / Nos domaines d'intervention |
+| Contact – hero | CONTACT / Prenez rendez-vous : | Un rendez-vous, et tout s'accélère. |
+| Contact – section | Joindre nos recruteurs et spécialistes RH dès Maintenant! | Des recruteurs qui répondent. |
+| Boutons | NOUS CONTACTER / RECHERCHE D'EMPLOI ? / RECHERCHE D'UN TALENT? / Cliquez pour vous enregistrer | Je cherche un emploi / Je recrute / Je m'enregistre / Prendre rendez-vous |
